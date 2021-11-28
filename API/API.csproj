@@ -189,7 +189,7 @@
       <DependentUpon>202111282205272_v1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\LoginRequest.cs" />
+    <Compile Include="Request\LoginRequest.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
